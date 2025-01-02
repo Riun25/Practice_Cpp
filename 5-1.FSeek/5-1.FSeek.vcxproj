@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f5256362-209c-49a3-a920-10e5eff216bc}</ProjectGuid>
-    <RootNamespace>FileRead</RootNamespace>
+    <ProjectGuid>{d985e203-0c29-4a35-9afc-f53890a504a0}</ProjectGuid>
+    <RootNamespace>My51FSeek</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>4-5.FileRead</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
