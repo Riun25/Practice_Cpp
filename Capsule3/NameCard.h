@@ -15,8 +15,8 @@ public:
 			"\n전화번호 : " << mNum <<
 			"\n주    소 : " << mAdr <<
 			"\n직    급 : " << mJob << "\n";
-
 	}
+
 private:
 	std::string mName;
 	std::string mNum;

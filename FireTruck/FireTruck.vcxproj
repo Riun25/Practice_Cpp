@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5e48770b-7168-4019-ab36-e93040da543b}</ProjectGuid>
-    <RootNamespace>Capsule</RootNamespace>
+    <ProjectGuid>{12475271-939c-4448-bd97-dce0b58b66cf}</ProjectGuid>
+    <RootNamespace>FireTruck</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,8 +146,12 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Circle.h" />
-    <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="FireCheif.h" />
+    <ClInclude Include="FireFighter.h" />
+    <ClInclude Include="FireTruck.h" />
+    <ClInclude Include="Hose.h" />
+    <ClInclude Include="Ladder.h" />
+    <ClInclude Include="Point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
