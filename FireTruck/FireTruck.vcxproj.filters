@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="FireFighter.h">
+    <ClInclude Include="FireFighterBase.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="FireTruck.h">
@@ -36,6 +36,21 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="FireCheif.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="TraineeFirefigter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="FireFighter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Administrator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="FireStation.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="INamedPerson.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
